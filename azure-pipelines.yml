@@ -2,5 +2,5 @@
 pool: 'Hosted Ubuntu 1604'
 
 steps:
-- script: echo Hello, world!!!!!
+- script: echo Hello, world!!!!!!
   displayName: 'Run a one-line script'
