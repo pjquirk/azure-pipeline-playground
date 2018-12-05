@@ -1,5 +1,5 @@
 
-pool: default
+pool: 'Hosted Ubuntu 1604'
 
 steps:
 - script: echo Hello, world!
